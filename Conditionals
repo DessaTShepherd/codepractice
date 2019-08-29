@@ -1,0 +1,12 @@
+if (true) {
+    console.log ("Truth");
+}
+if (false) {
+    console.log ("Lie");
+}
+Let Two=2;
+if (Two>1) {
+    console.log ("Truth");
+} else {
+    console.log ("Lie")
+}
