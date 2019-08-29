@@ -1,0 +1,17 @@
+Git init. _ starts or initializes git repo
+git clone - clones repo
+Git commit - saves
+Git status - tell us where we are and what’s going on there
+Git log - shows us the various versions i.e. commit history of the files in repo
+Git add - add a file to be tracked in the repo
+
+Command Line
+Cd - change directory
+Pwd - print working directory; tells us the current directory
+Ls - list all in current directory
+Ls -la - lists ALL files and directories including hidden one in current directory
+Cd .. - go to parent directory
+Code - opens file with visual studio Code
+mv- moves file from one place to another and also renames files 
+Touch - creates a file 
+man - access manual  
