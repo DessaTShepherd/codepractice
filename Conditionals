@@ -1,12 +1,10 @@
-if (true) {
-    console.log ("Truth");
-}
-if (false) {
-    console.log ("Lie");
-}
-Let Two = 2;
-if (Two>1) {
-    console.log ("Truth");
+let two = 2;
+if (two = 2){
+    console.log ("PEACE");
+} 
+let three = 3;
+if (three>2) {
+    console.log ("This is True peace");
 } else {
-    console.log ("Lie")
+    console.log ("NOO!!");
 }
